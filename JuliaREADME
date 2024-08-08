@@ -1,0 +1,8 @@
+Hey Julia!
+
+When creating your MCreator workspace, I accidentally made it a Neoforage instead of a Forge model. This has no impact on your mods in your game but will change how to access it in Curseforge.
+
+In order to ensure you can properly access your mod with Curseforge, when following the instructions and you are creating a new profile, make sure the gamemode is set to Neoforge instead of forge.
+
+
+If you come across any complications, don't be afraid to reach out.
